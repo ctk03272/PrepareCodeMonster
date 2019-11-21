@@ -1,8 +1,11 @@
 package com.ctk0327.B2562;
 
+
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
+
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int nextInt;
@@ -15,7 +18,12 @@ public class Main {
                 index=i;
             }
         }
+        ArrayList ar=new ArrayList();
+
+
         System.out.println(maxValue);
         System.out.println(index);
+
+
     }
 }
