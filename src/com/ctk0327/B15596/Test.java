@@ -1,6 +1,5 @@
 package com.ctk0327.B15596;
 
-import java.util.Scanner;
 
 public class Test {
     long sum(int[] a){
