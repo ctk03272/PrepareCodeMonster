@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5047dd7-9220-478a-b256-1b27c1a68c1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ctk0327/B2565/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ctk0327/B11653/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ctk0327/B12865/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ctk0327/B5086/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,45 +25,45 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B1904/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B2565/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" lean-forward="true" selection-end-line="22" />
+            <state relative-caret-position="323">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B11054/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B12865/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+            <state relative-caret-position="273">
+              <caret line="41" column="35" lean-forward="true" selection-end-line="59" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B5086/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B2565/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B11653/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1260#1261#0" expanded="true" />
-                <element signature="e#1283#1284#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B15650/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="42" selection-start-line="42" selection-end-line="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="456">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -158,6 +160,9 @@
         <option value="$PROJECT_DIR$/src/com/ctk0327/B1904/Main.java" />
         <option value="$PROJECT_DIR$/src/com/ctk0327/B11054/Main.java" />
         <option value="$PROJECT_DIR$/src/com/ctk0327/B2565/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ctk0327/B12865/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ctk0327/B5086/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ctk0327/B11653/Main.java" />
       </list>
     </option>
   </component>
@@ -165,10 +170,10 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-431" />
-    <option name="y" value="582" />
-    <option name="width" value="1538" />
-    <option name="height" value="900" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1554" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectId" id="1TlfRlxtZuCeuvtr3G2PHjlrtPZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -179,8 +184,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,7 +209,14 @@
               <item name="PrepareCodeMonster" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ctk0327" type="462c0819:PsiDirectoryNode" />
-              <item name="B2565" type="462c0819:PsiDirectoryNode" />
+              <item name="B11653" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PrepareCodeMonster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PrepareCodeMonster" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ctk0327" type="462c0819:PsiDirectoryNode" />
+              <item name="B12865" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,26 +248,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ctk0327.B9461.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.ctk0327.B11653.Main" />
       <module name="PrepareCodeMonster" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ctk0327.B9461.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ctk0327.B1904.Main" />
-      <module name="PrepareCodeMonster" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ctk0327.B1904.*" />
+          <option name="PATTERN" value="com.ctk0327.B11653.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,12 +275,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ctk0327.B14889.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctk0327.B12865.Main" />
       <module name="PrepareCodeMonster" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ctk0327.B14889.*" />
+          <option name="PATTERN" value="com.ctk0327.B12865.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctk0327.B5086.Main" />
+      <module name="PrepareCodeMonster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctk0327.B5086.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,19 +315,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (5)" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +349,9 @@
       <workItem from="1574594475408" duration="25479000" />
       <workItem from="1574683008806" duration="8259000" />
       <workItem from="1574733759014" duration="5001000" />
-      <workItem from="1574861319697" duration="9200000" />
+      <workItem from="1574861319697" duration="9918000" />
+      <workItem from="1574905417213" duration="599000" />
+      <workItem from="1574922955015" duration="5890000" />
     </task>
     <task id="LOCAL-00001" summary="- 11/23">
       <created>1574447408159</created>
@@ -350,13 +364,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63616000" />
+    <option name="totallyTimeSpent" value="70823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497921" visible="true" weight="0.2646086" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497921" visible="true" weight="0.22381477" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -365,15 +379,15 @@
       <window_info id="Favorites" order="6" sideWeight="0.502079" side_tool="true" weight="0.28280044" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3097713" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3981289" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25051975" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39769822" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49971414" weight="0.32952183" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49971414" weight="0.32992327" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50028586" side_tool="true" weight="0.32952183" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32952183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -505,6 +519,12 @@
           <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ctk0327/B12865/Main.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -512,11 +532,22 @@
         <watch expression="input" language="JAVA" />
         <watch expression="sdoku[1]" />
         <watch expression="first" language="JAVA" />
+        <watch expression="StuffList" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>i==7</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>k==7</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>i==2</expression-string>
         <language-id>JAVA</language-id>
@@ -554,16 +585,6 @@
       </expression>
       <expression>
         <expression-string>sdoku[1][3]==4</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>num==10</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>num==11</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -675,6 +696,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B1904/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B11054/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B2565/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B15651/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -727,29 +772,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B1904/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B12865/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" lean-forward="true" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B11054/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B2565/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        <state relative-caret-position="273">
+          <caret line="41" column="35" lean-forward="true" selection-end-line="59" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1260#1261#0" expanded="true" />
-            <element signature="e#1283#1284#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B5086/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B11653/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
