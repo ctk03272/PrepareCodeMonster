@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5047dd7-9220-478a-b256-1b27c1a68c1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ctk0327/B1079/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ctk0327/B1695/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ctk0327/B6549/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ctk0327/B12100/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ctk0327/B16235/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ctk0327/B5670/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ctk0327/H11/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ctk0327/B10282/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ctk0327/B10282/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ctk0327/B14890/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ctk0327/B14890/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ctk0327/B2001/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ctk0327/B2001/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ctk0327/B5719/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ctk0327/B5719/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ctk0327/B9270/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ctk0327/B9270/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,14 +30,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B1079/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B16235/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+            <state relative-caret-position="741">
+              <caret line="40" selection-start-line="39" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B12100/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="88" column="20" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ctk0327/H11/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B5670/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1262">
+              <caret line="24" column="66" lean-forward="true" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#1016#1017#0" expanded="true" />
+                <element signature="e#1051#1052#0" expanded="true" />
+                <element signature="e#2898#2899#0" expanded="true" />
+                <element signature="e#2916#2917#0" expanded="true" />
+                <element signature="e#3560#3561#0" expanded="true" />
+                <element signature="e#3610#3611#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="950" column="14" selection-start-line="950" selection-start-column="14" selection-end-line="950" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Scanner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="2071" column="59" lean-forward="true" selection-start-line="2071" selection-start-column="59" selection-end-line="2071" selection-end-column="59" />
+              <folding>
+                <element signature="e#78006#78007#0" expanded="true" />
+                <element signature="e#78050#78051#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4674">
+              <caret line="269" column="18" selection-start-line="269" selection-start-column="18" selection-end-line="269" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -49,6 +138,10 @@
     <findStrings>
       <find>input</find>
       <find>score</find>
+      <find>prio</find>
+      <find>prQue</find>
+      <find>ar2</find>
+      <find>setEndOfWord</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -57,8 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ctk0327/B1018/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/ctk0327/B15649/Main.java" />
         <option value="$PROJECT_DIR$/src/com/ctk0327/B15650/Main.java" />
         <option value="$PROJECT_DIR$/src/com/ctk0327/B15651/Main.java" />
         <option value="$PROJECT_DIR$/src/com/ctk0327/B15652/Main.java" />
@@ -100,6 +191,16 @@
         <option value="$PROJECT_DIR$/src/com/ctk0327/B1695/Main.java" />
         <option value="$PROJECT_DIR$/src/com/ctk0327/B6549/Main.java" />
         <option value="$PROJECT_DIR$/src/com/ctk0327/B1079/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ctk0327/B2001/Land.java" />
+        <option value="$PROJECT_DIR$/src/com/ctk0327/B2001/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ctk0327/B9270/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ctk0327/B14890/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ctk0327/B10282/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ctk0327/B5719/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ctk0327/B16235/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ctk0327/B12100/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ctk0327/H11/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/ctk0327/B5670/Main.java" />
       </list>
     </option>
   </component>
@@ -112,11 +213,11 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="85" />
-    <option name="width" value="978" />
-    <option name="height" value="784" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="554" />
+    <option name="height" value="496" />
   </component>
   <component name="ProjectId" id="1TlfRlxtZuCeuvtr3G2PHjlrtPZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -127,8 +228,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,40 +251,14 @@
               <item name="PrepareCodeMonster" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ctk0327" type="462c0819:PsiDirectoryNode" />
-              <item name="B1021" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PrepareCodeMonster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PrepareCodeMonster" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ctk0327" type="462c0819:PsiDirectoryNode" />
-              <item name="B1079" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PrepareCodeMonster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PrepareCodeMonster" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ctk0327" type="462c0819:PsiDirectoryNode" />
-              <item name="B6549" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PrepareCodeMonster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PrepareCodeMonster" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ctk0327" type="462c0819:PsiDirectoryNode" />
-              <item name="B17298" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PrepareCodeMonster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PrepareCodeMonster" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ctk0327" type="462c0819:PsiDirectoryNode" />
-              <item name="B17822" type="462c0819:PsiDirectoryNode" />
+              <item name="B5670" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,6 +274,11 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../ForceRollingFileScheduler.class" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ctk0327.B2001" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -213,13 +291,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ctk0327.B1695.Main" />
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctk0327.B12100.Main" />
       <module name="PrepareCodeMonster" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ctk0327.B1695.*" />
+          <option name="PATTERN" value="com.ctk0327.B12100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,11 +306,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ctk0327.B6549.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.ctk0327.B5719.Main" />
       <module name="PrepareCodeMonster" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ctk0327.B6549.*" />
+          <option name="PATTERN" value="com.ctk0327.B5719.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,24 +319,11 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ctk0327.B1194.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.ctk0327.B5670.Main" />
       <module name="PrepareCodeMonster" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ctk0327.B1194.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ctk0327.SecondSajun.Main" />
-      <module name="PrepareCodeMonster" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ctk0327.SecondSajun.*" />
+          <option name="PATTERN" value="com.ctk0327.B5670.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,11 +332,24 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ctk0327.B1079.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.ctk0327.B16235.Main" />
       <module name="PrepareCodeMonster" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ctk0327.B1079.*" />
+          <option name="PATTERN" value="com.ctk0327.B16235.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctk0327.H11.Solution" />
+      <module name="PrepareCodeMonster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctk0327.H11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,19 +358,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (5)" />
-      <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +404,11 @@
       <workItem from="1575851913064" duration="20381000" />
       <workItem from="1576065101885" duration="5264000" />
       <workItem from="1576075062271" duration="501000" />
-      <workItem from="1576114652606" duration="7287000" />
+      <workItem from="1576114652606" duration="12071000" />
+      <workItem from="1576308553617" duration="15007000" />
+      <workItem from="1576412568032" duration="7801000" />
+      <workItem from="1576491985556" duration="18080000" />
+      <workItem from="1576545294216" duration="7895000" />
     </task>
     <task id="LOCAL-00001" summary="- 11/23">
       <created>1574447408159</created>
@@ -339,7 +421,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244928000" />
+    <option name="totallyTimeSpent" value="298495000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,10 +433,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="978" height="784" extended-state="6" />
+    <frame x="1912" y="-8" width="1696" height="1026" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497921" visible="true" weight="0.23093683" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497921" visible="true" weight="0.1393643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -362,8 +444,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.502079" side_tool="true" weight="0.28280044" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.42827442" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952183" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.42600897" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32952183" />
@@ -371,9 +453,9 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32952183" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50028586" side_tool="true" weight="0.32952183" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32848233" />
-      <window_info anchor="bottom" x="26" y="476" width="1814" height="317" id="Terminal" order="11" sideWeight="0.49971414" type="SLIDING" weight="0.27338877" />
-      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.46153846" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32847533" />
+      <window_info anchor="bottom" x="26" y="476" width="1814" height="317" id="Terminal" order="11" sideWeight="0.49971414" type="SLIDING" weight="0.18542199" />
+      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.2679372" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -733,6 +815,68 @@
           <properties />
           <option name="timeStamp" value="214" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ctk0327/B10282/Main.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ctk0327/B9270/Main.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ctk0327/B14890/Main.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i==0" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/com/ctk0327/B14890/Main.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ctk0327/B5719/Main.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ctk0327/B16235/Main.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="trees.size()!=0" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/com/ctk0327/B16235/Main.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ctk0327/B12100/Main.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="363" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ctk0327/B12100/Main.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ctk0327/H11/Solution.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -745,63 +889,165 @@
         <watch expression="sc" />
         <watch expression="input" language="JAVA" />
         <watch expression="maxWater" language="JAVA" />
+        <watch expression="queue.toArray()[0]" />
+        <watch expression="queue" language="JAVA" />
+        <watch expression="queue" language="JAVA" />
+        <watch expression="((Line)queue.toArray()[0]).end" custom="com.ctk0327.B10282.Line" />
+        <watch expression="visit" language="JAVA" />
+        <watch expression="visit" language="JAVA" />
+        <watch expression="Main.queue" />
+        <watch expression="input" />
+        <watch expression="input" language="JAVA" />
+        <watch expression="input[0]" />
+        <watch expression="input[1]" />
+        <watch expression="input" language="JAVA" />
+        <watch expression="input[0][2]" />
+        <watch expression="input" language="JAVA" />
+        <watch expression="input[1]" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>trieNode.getCount()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>right(input)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>right(input);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>left(up(left(input)))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>up(left(input))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>left(input)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>right(right(input))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>down(input)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>right(up(right(input)))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="breakpointCondition">
       <expression>
-        <expression-string>left==-1</expression-string>
+        <expression-string>input[i][j]==128</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>key==32</expression-string>
+        <expression-string>input[i][j]==8</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>i==1 &amp;&amp; j==1 &amp;&amp; k==6</expression-string>
+        <expression-string>input[i][j]==64</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>k==6</expression-string>
+        <expression-string>result==64</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>i==3 &amp;&amp; j==2 &amp;&amp; k==4</expression-string>
+        <expression-string>trees.size()!=0</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>i==2 &amp;&amp; j==2 &amp;&amp; k==4</expression-string>
+        <expression-string>trees.size()!=1</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>i==2 &amp;&amp; j==2 &amp;&amp; k==4 &amp;&amp;nx==3 &amp;&amp; ny==1</expression-string>
+        <expression-string>i==0</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>i==2 &amp;&amp; j==2 k==4</expression-string>
+        <expression-string>now.now==2 &amp;&amp; now.count==3 &amp;&amp;destEnd==1</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>k==8</expression-string>
+        <expression-string>now.now==2 &amp;&amp; now.count==3 &amp;&amp;desEnd==1</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>k==7</expression-string>
+        <expression-string>now.now==2 &amp;&amp; destEnd==1</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>(int)Math.pow(2, 100)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.pow(2, 100)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>3 &amp; 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>2 &amp; 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>2^4</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>2^1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>2^2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>2^15</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>temp.charAt(j)</expression-string>
         <language-id>JAVA</language-id>
@@ -812,150 +1058,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>dp[gramX][gramY]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>N</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>gramY</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>((N-1)-gramY)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>((N-1)-gramY)+((M-1)-gramY)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>8-(M-1)*2</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>temp2*(8-(M-1)*2)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B10818/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B2562/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="27" column="5" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B15649/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" selection-start-line="5" selection-end-line="58" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B15596/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B9461/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="9" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B15650/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="42" selection-start-line="42" selection-end-line="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B1904/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B11054/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B2565/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B15651/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" selection-start-line="5" selection-end-line="56" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B15652/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
-          <caret line="58" column="9" selection-end-line="61" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B2580/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B14888/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="72" column="39" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B14889/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -1069,13 +1174,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="65" column="42" lean-forward="true" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27056">
-          <caret line="1484" column="16" selection-start-line="1484" selection-start-column="16" selection-end-line="1484" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1288,10 +1386,149 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B1079/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+        <state relative-caret-position="874">
+          <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B2001/Land.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B2001/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="67" column="13" lean-forward="true" selection-end-line="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B9270/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="104" column="8" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1732#1733#0" expanded="true" />
+            <element signature="e#1791#1792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B10282/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B5719/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" selection-end-line="146" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B14890/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="96" column="17" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3296#3297#0" expanded="true" />
+            <element signature="e#3346#3347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B16235/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="40" selection-start-line="39" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4674">
+          <caret line="269" column="18" selection-start-line="269" selection-start-column="18" selection-end-line="269" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/H11/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B12100/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="88" column="20" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/H11/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="2071" column="59" lean-forward="true" selection-start-line="2071" selection-start-column="59" selection-end-line="2071" selection-end-column="59" />
+          <folding>
+            <element signature="e#78006#78007#0" expanded="true" />
+            <element signature="e#78050#78051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="950" column="14" selection-start-line="950" selection-start-column="14" selection-end-line="950" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctk0327/B5670/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1262">
+          <caret line="24" column="66" lean-forward="true" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#2898#2899#0" expanded="true" />
+            <element signature="e#2916#2917#0" expanded="true" />
+            <element signature="e#3560#3561#0" expanded="true" />
+            <element signature="e#3610#3611#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
           </folding>
         </state>
       </provider>
