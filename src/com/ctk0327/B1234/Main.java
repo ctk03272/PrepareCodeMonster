@@ -25,7 +25,14 @@ public class Main {
                 }
             }
         }
-        long answer = getSolve(N, R, G, B);
+        long answer =0;
+        for (int j = 1; j <= R; j++) {
+            for (int k = 1; k <= G; k++) {
+                for (int l = 1; l <= B; l++) {
+                    answer+=getSolve(N, j, k, l);
+                }
+            }
+        }
         System.out.println(answer == 1 ? 0 : answer);
     }
 
@@ -37,21 +44,21 @@ public class Main {
             return dp[n][r][g][b];
         }
 
-        int result = 0;
+        long result = 0;
         if (n % 3 == 0) {
-            if (r + n / 3 <= R && g + n / 3 <= G && b + n / 3 <= B) {
-                result += getSolve(n - 1, r + n / 3, g + n / 3, b + n / 3) * get3(n);
+            if (n / 3 <= r && n / 3 <= g && n / 3 <= b) {
+                result += getSolve(n - 1, r - n / 3, g - n / 3, b - n / 3) * get3(n);
             }
         }
         if (n % 2 == 0) {
-            if (r + n / 2 <= R && g + n / 2 <= G) {
-                result += getSolve(n - 1, r + n / 2, g + n / 2, b) * get2(n);
+            if (n / 2 <= r && n / 2 <= g) {
+                result += getSolve(n - 1, r - n / 2, g - n / 2, b) * get2(n);
             }
-            if (g + n / 2 <= G && b + n / 2 <= B) {
-                result += getSolve(n - 1, r, g + n / 2, b + n / 2) * get2(n);
+            if (n / 2 <= g && n / 2 <= b) {
+                result += getSolve(n - 1, r, g - n / 2, b - n / 2) * get2(n);
             }
-            if (r + n / 2 <= R && b + n / 2 <= B) {
-                result += getSolve(n - 1, r + n / 2, g, b + n / 2) * get2(n);
+            if (n / 2 <= r && n / 2 <= b) {
+                result += getSolve(n - 1, r - n / 2, g, b - n / 2) * get2(n);
             }
         }
         dp[n][r][g][b] = result;
