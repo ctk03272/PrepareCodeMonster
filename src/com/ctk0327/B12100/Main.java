@@ -5,7 +5,6 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-import sun.awt.image.ImageWatched.Link;
 
 public class Main {
     static int N;
