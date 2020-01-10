@@ -61,5 +61,4 @@ public class Main {
         }
         System.out.println(result);
     }
->>>>>>> 29e4c4d9f9e3b6a69ddb228ff0d911ab787decea
 }
