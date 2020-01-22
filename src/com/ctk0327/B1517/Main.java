@@ -37,6 +37,6 @@ public class Main {
         for (int i = start; i <= end; i++) {
             given[i] = temp[i - start];
         }
-        return ans;s
+        return ans;
     }
 }
