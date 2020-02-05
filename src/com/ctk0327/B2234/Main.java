@@ -47,7 +47,6 @@ public class Main {
         }
 
         maxGroup = Integer.MIN_VALUE;
-git
         visit = new boolean[m][n];
         for (int i = 1; i < groupId; i++) {
             getNearestGroup(i);
