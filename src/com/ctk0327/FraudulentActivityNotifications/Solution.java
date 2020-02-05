@@ -6,28 +6,73 @@ import java.io.*;
 import java.util.*;
 
 public class Solution {
+    static int MAX = 200001;
+    static int[] tree;
 
     // Complete the activityNotifications function below.
     static int activityNotifications(int[] expenditure, int d) {
         int notification = 0;
-        int median = getMedian(expenditure, 0, d - 1);
+        int treeSize = MAX * 3;
+        int size = expenditure.length;
+        tree = new int[treeSize];
+        int m = (d + 1) / 2;
+        double median = 0;
+        for (int i = 0; i < d; i++) {
+            updateTree(1, expenditure[i], 0, MAX, true);
+        }
+        if (d % 2 == 0) {
+            median = ((double) getMedian(1, m, 0, MAX) + getMedian(1, m + 1, 0, MAX)) / 2;
+        } else {
+            median=getMedian(1, m, 0, MAX);
+        }
+        if(expenditure[d]>=median*2){
+            notification++;
+        }
+//        int median = getMedian(1,m,0,MAX);
+        for (int i = d; i < size-1; i++) {
+            updateTree(1, expenditure[i - d], 0, MAX, false);
+            updateTree(1, expenditure[i], 0, MAX, true);
+            if (d % 2 == 0) {
+                median = ((double)getMedian(1, m, 0, MAX) + getMedian(1, m + 1, 0, MAX)) / 2;
+            } else {
+                median=getMedian(1, m, 0, MAX);
+            }
+            if(expenditure[i+1]>=median*2){
+                notification++;
+            }
+        }
+        System.out.println(notification);
         return notification;
     }
 
-    private static int getMedian(int[] expenditure, int start, int end) {
-        int size=end-start+1;
-        int median=0;
-        int[] medainAr = new int[size];
-        for (int i = start; i <= end; i++) {
-            medainAr[i-start] = expenditure[i];
+    private static void updateTree(int index, int num, int l, int r, boolean isADD) {
+        if (num >= l && num <= r) {
+            if (isADD) {
+                tree[index] += 1;
+            } else {
+                tree[index] -= 1;
+            }
+        } else {
+            return;
         }
-        Arrays.sort(medainAr);
-        if(size%2==0){
+        if (l != r) {
+            updateTree(2 * (index), num, l, (l + r) / 2, isADD);
+            updateTree(2 * (index) + 1, num, (l + r) / 2 + 1, r, isADD);
+        }
+    }
 
-        }else{
-            median=medainAr[(end-start)/2+start];
+    private static int getMedian(int index, int d, int start, int end) {
+        int mid = (start + end) / 2;
+
+        if (start == end) {
+            return start;
         }
-        return median;
+
+        if (tree[index * 2] < d) {
+            return getMedian(index * 2 + 1, d - tree[index * 2], mid + 1, end);
+        } else {
+            return getMedian(index * 2, d, start, mid);
+        }
     }
 
     private static final Scanner scanner = new Scanner(in);
