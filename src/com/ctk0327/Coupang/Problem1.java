@@ -2,7 +2,7 @@ package com.ctk0327.Coupang;
 
 import java.util.Scanner;
 
-public class Main {
+public class Problem1 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String s= sc.nextLine();
