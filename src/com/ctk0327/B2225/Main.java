@@ -1,8 +1,5 @@
 package com.ctk0327.B2225;
 
-<<<<<<< HEAD
-public class Main {
-=======
 import java.util.Scanner;
 
 public class Main {
@@ -28,5 +25,4 @@ public class Main {
         }
         System.out.println(dp[N][K]);
     }
->>>>>>> b0d67e03946c794a12208af0388044872237066e
 }
