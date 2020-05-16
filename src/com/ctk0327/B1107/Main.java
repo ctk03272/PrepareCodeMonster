@@ -2,7 +2,8 @@ package com.ctk0327.B1107;
 
 import java.util.Scanner;
 
-public class Main {
+public class
+Main {
     static boolean[] broken;
 
     public static void main(String[] args) {
@@ -21,19 +22,22 @@ public class Main {
         }
         int result = 0;
         int count = 0;
+        int lengthCount=0;
         while (!allBroken) {
             int upper = N + count;
             int down = N - count;
-            if (isAvailable(upper)) {
+            if (isAvailable(down)) {
+                lengthCount=String.valueOf(down).length();
                 break;
             }
 
-            if (isAvailable(down)) {
+            if (isAvailable(upper)) {
+                lengthCount=String.valueOf(upper).length();
                 break;
             }
             count++;
         }
-        count = Math.min(count + String.valueOf(N).length(), Math.abs(N - 100));
+        count = Math.min(count + lengthCount, Math.abs(N - 100));
         if (allBroken) {
             count = Math.abs(N - 100);
         }
@@ -41,6 +45,9 @@ public class Main {
     }
 
     private static boolean isAvailable(int input) {
+        if(input<0){
+            return false;
+        }
         boolean isAvailable = true;
         do {
             if (broken[input % 10]) {
