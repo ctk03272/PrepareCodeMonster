@@ -1,3 +1,4 @@
 out/
 .idea/
-.imi
+*.iml
+.DS_Store
