@@ -43,7 +43,7 @@ public class Main {
             } else {
                 a[x][0] = y - 'A';
             }
-            if (z == '.') {
+            if (z == '.') { 
                 a[x][1] = -1;
             } else {
                 a[x][1] = z - 'A';
