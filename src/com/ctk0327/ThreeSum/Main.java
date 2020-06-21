@@ -32,7 +32,7 @@ public class Main {
                 }
                 int sum = nums[i] + nums[j];
                 if(sum>0){
-                    continue;;
+                    continue;
                 }
                 if (map.containsKey(-sum) && map.get(-sum) > j) {
                     List<Integer> ar = new ArrayList<>();
